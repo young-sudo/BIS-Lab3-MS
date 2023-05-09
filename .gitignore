@@ -1,0 +1,9 @@
+
+# treść zadania
+*.pdf
+
+# notatki z zajęć
+spektrometria.ipynb
+
+*.csv
+# dane
